@@ -93,6 +93,6 @@ class MarvellousCalculator
 {
     public static void main(String arg[])
     {
-        Calculator cobj = new Calculator(400,400,"Marvellous Calculator");
+         Calculator cobj = new Calculator(400,400,"Marvellous Calculator");
     }
 }
